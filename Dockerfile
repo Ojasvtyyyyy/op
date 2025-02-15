@@ -6,6 +6,9 @@ COPY requirements.txt .
 RUN pip install -r requirements.txt
 RUN pip install gunicorn supervisor
 
+# Create supervisor directory
+RUN mkdir -p /etc/supervisor/conf.d
+
 COPY . .
 
 # Create the supervisor configuration file
