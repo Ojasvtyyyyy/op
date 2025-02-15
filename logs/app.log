@@ -1,0 +1,273 @@
+[2025-02-15 02:59:00,014] ERROR in app: Dashboard error: 'timezone' is undefined
+[2025-02-15 02:59:00,798] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 02:59:03,141] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 02:59:04,347] ERROR in app: Dashboard error: 'timezone' is undefined
+[2025-02-15 02:59:05,074] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 02:59:29,214] ERROR in app: Dashboard error: 'timezone' is undefined
+[2025-02-15 02:59:30,904] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:00:22,428] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:00:23,948] INFO in app: Dashboard loaded successfully for view_type: users, days: today
+[2025-02-15 03:00:23,994] ERROR in app: Dashboard error: 'timezone' is undefined
+[2025-02-15 03:00:23,994] ERROR in app: An error occurred: Could not build url for endpoint 'index'. Did you mean 'login' instead?
+[2025-02-15 03:00:24,346] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:02:01,393] INFO in app: Dashboard loaded successfully for view_type: users, days: today
+[2025-02-15 03:02:01,444] ERROR in app: Dashboard error: 'timezone' is undefined
+[2025-02-15 03:02:02,196] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:02:03,965] INFO in app: Dashboard loaded successfully for view_type: users, days: today
+[2025-02-15 03:02:03,968] ERROR in app: Dashboard error: 'timezone' is undefined
+[2025-02-15 03:02:04,651] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:02:05,916] INFO in app: Dashboard loaded successfully for view_type: users, days: today
+[2025-02-15 03:02:05,918] ERROR in app: Dashboard error: 'timezone' is undefined
+[2025-02-15 03:02:06,782] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:04:07,981] INFO in app: Dashboard loaded successfully for view_type: users, days: today
+[2025-02-15 03:04:08,906] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:04:13,675] INFO in app: Dashboard loaded successfully for view_type: users, days: 3days
+[2025-02-15 03:04:14,378] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:04:21,425] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 03:04:22,200] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:04:41,065] INFO in app: Dashboard loaded successfully for view_type: total, days: 3days
+[2025-02-15 03:04:41,646] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:04:53,180] INFO in app: Dashboard loaded successfully for view_type: total, days: today
+[2025-02-15 03:04:53,891] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:05:15,448] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:05:16,079] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:08:14,031] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:08:14,704] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:08:18,614] INFO in app: Dashboard loaded successfully for view_type: total, days: today
+[2025-02-15 03:08:19,193] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:09:30,325] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:09:30,991] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:09:32,327] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:09:33,025] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:10:00,191] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:10:00,876] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:10:48,846] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:10:49,571] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:12:17,844] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:12:18,520] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:13:02,323] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:13:03,016] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:13:04,864] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:13:05,554] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:13:06,361] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:14:27,575] ERROR in app: Debug error: name 'db' is not defined
+[2025-02-15 03:14:27,925] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:14:58,796] INFO in app: Chat ID: -1001710482658, Type: supergroup, Name: Unknown Chat
+[2025-02-15 03:14:58,799] INFO in app: Chat ID: -1002153270046, Type: supergroup, Name: Unknown Chat
+[2025-02-15 03:14:58,802] INFO in app: Chat ID: -4778949526, Type: group, Name: Unknown Chat
+[2025-02-15 03:14:58,802] INFO in app: Chat ID: -4622253384, Type: group, Name: Unknown Chat
+[2025-02-15 03:14:59,193] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:16:24,861] INFO in app: Chat ID: -1001710482658, Type: supergroup, Name: Unknown Chat
+[2025-02-15 03:16:24,861] INFO in app: Chat ID: -1002153270046, Type: supergroup, Name: Unknown Chat
+[2025-02-15 03:16:24,861] INFO in app: Chat ID: -4778949526, Type: group, Name: Unknown Chat
+[2025-02-15 03:16:24,861] INFO in app: Chat ID: -4622253384, Type: group, Name: Unknown Chat
+[2025-02-15 03:16:25,262] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:16:49,796] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:16:52,591] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:16:53,361] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:16:55,547] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:16:58,291] INFO in app: Chat ID: -1001710482658, Type: supergroup, Name: Unknown Chat
+[2025-02-15 03:16:58,291] INFO in app: Chat ID: -1002153270046, Type: supergroup, Name: Unknown Chat
+[2025-02-15 03:16:58,291] INFO in app: Chat ID: -4778949526, Type: group, Name: Unknown Chat
+[2025-02-15 03:16:58,291] INFO in app: Chat ID: -4622253384, Type: group, Name: Unknown Chat
+[2025-02-15 03:16:59,059] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:19:32,590] INFO in app: Chat ID: -1001710482658, Type: supergroup, Name: Unknown Chat
+[2025-02-15 03:19:32,590] INFO in app: Chat ID: -1002153270046, Type: supergroup, Name: Unknown Chat
+[2025-02-15 03:19:32,591] INFO in app: Chat ID: -4778949526, Type: group, Name: Unknown Chat
+[2025-02-15 03:19:32,591] INFO in app: Chat ID: -4622253384, Type: group, Name: Unknown Chat
+[2025-02-15 03:19:32,917] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:19:36,012] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:19:37,511] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:19:38,166] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:19:40,449] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:19:41,123] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:19:45,990] INFO in app: Dashboard loaded successfully for view_type: users, days: today
+[2025-02-15 03:19:46,666] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:19:56,003] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:19:56,672] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:19:58,641] INFO in app: Dashboard loaded successfully for view_type: total, days: today
+[2025-02-15 03:19:59,354] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:20:17,070] INFO in app: Dashboard loaded successfully for view_type: total, days: forever
+[2025-02-15 03:20:18,027] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:23:24,632] INFO in app: Dashboard loaded successfully for view_type: total, days: forever
+[2025-02-15 03:23:25,284] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:23:28,917] INFO in app: Dashboard loaded successfully for view_type: total, days: 3days
+[2025-02-15 03:23:29,559] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:23:32,117] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 03:23:32,755] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:26:48,991] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 03:26:49,790] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:26:53,431] INFO in app: Dashboard loaded successfully for view_type: groups, days: 7days
+[2025-02-15 03:26:54,525] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:26:55,908] INFO in app: Dashboard loaded successfully for view_type: groups, days: forever
+[2025-02-15 03:26:56,642] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:27:02,801] INFO in app: Dashboard loaded successfully for view_type: total, days: forever
+[2025-02-15 03:27:03,370] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:27:11,507] INFO in app: Dashboard loaded successfully for view_type: total, days: today
+[2025-02-15 03:27:12,530] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:27:15,718] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:27:16,394] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:28:40,058] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:28:40,775] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:28:43,607] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:28:45,316] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:29:17,557] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 03:29:18,258] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:29:59,990] INFO in app: Dashboard loaded successfully for view_type: groups, days: 7days
+[2025-02-15 03:30:01,310] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:30:03,588] INFO in app: Dashboard loaded successfully for view_type: total, days: 7days
+[2025-02-15 03:30:04,597] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:31:08,901] INFO in app: Dashboard loaded successfully for view_type: total, days: 7days
+[2025-02-15 03:31:09,559] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:31:10,911] INFO in app: Dashboard loaded successfully for view_type: total, days: 3days
+[2025-02-15 03:31:11,586] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:31:13,538] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 03:31:14,186] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:31:19,590] INFO in app: Dashboard loaded successfully for view_type: users, days: 3days
+[2025-02-15 03:31:20,238] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:31:23,243] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 03:31:23,946] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:32:26,998] INFO in app: Chat ID: -1001710482658, Type: supergroup, Name: None
+[2025-02-15 03:32:26,998] INFO in app: Chat ID: -1002153270046, Type: supergroup, Name: None
+[2025-02-15 03:32:26,998] INFO in app: Chat ID: -4778949526, Type: group, Name: None
+[2025-02-15 03:32:26,998] INFO in app: Chat ID: -4622253384, Type: group, Name: None
+[2025-02-15 03:32:27,434] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:34:05,841] INFO in app: Chat ID: -1001710482658, Type: supergroup, Name: None
+[2025-02-15 03:34:05,852] INFO in app: Chat ID: -1002153270046, Type: supergroup, Name: None
+[2025-02-15 03:34:05,852] INFO in app: Chat ID: -4778949526, Type: group, Name: None
+[2025-02-15 03:34:05,852] INFO in app: Chat ID: -4622253384, Type: group, Name: None
+[2025-02-15 03:34:06,330] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:34:08,095] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:34:09,717] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 03:34:10,612] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:34:55,384] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 03:34:56,062] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:36:08,728] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 03:36:09,412] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:47:08,902] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 03:47:09,723] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:47:17,981] INFO in app: Chat ID: -1001710482658, Type: supergroup, Name: None
+[2025-02-15 03:47:17,981] INFO in app: Chat ID: -1002153270046, Type: supergroup, Name: None
+[2025-02-15 03:47:17,981] INFO in app: Chat ID: -4778949526, Type: group, Name: None
+[2025-02-15 03:47:17,981] INFO in app: Chat ID: -4622253384, Type: group, Name: None
+[2025-02-15 03:47:18,302] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:48:57,298] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 03:48:58,724] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 03:48:59,676] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 04:06:42,947] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 04:06:43,996] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 04:06:46,068] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 04:06:46,679] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 04:06:48,334] INFO in app: Dashboard loaded successfully for view_type: groups, days: 7days
+[2025-02-15 04:06:49,295] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 04:07:16,778] INFO in app: Dashboard loaded successfully for view_type: groups, days: 7days
+[2025-02-15 04:07:17,402] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:39:28,342] INFO in app: Dashboard loaded successfully for view_type: groups, days: 7days
+[2025-02-15 13:39:30,810] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:39:32,850] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 13:39:33,496] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:45:14,113] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 13:45:15,896] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:45:17,458] INFO in app: Dashboard loaded successfully for view_type: groups, days: 7days
+[2025-02-15 13:45:18,391] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:45:21,424] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 13:45:22,187] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:45:24,086] INFO in app: Dashboard loaded successfully for view_type: groups, days: 7days
+[2025-02-15 13:45:25,245] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:45:25,846] INFO in app: Dashboard loaded successfully for view_type: groups, days: forever
+[2025-02-15 13:45:26,582] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:45:29,619] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 13:45:30,275] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:45:32,702] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 13:45:33,404] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:45:39,333] INFO in app: Dashboard loaded successfully for view_type: users, days: 3days
+[2025-02-15 13:45:40,630] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:45:56,191] INFO in app: Dashboard loaded successfully for view_type: total, days: 3days
+[2025-02-15 13:45:56,998] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:53:57,718] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 13:53:58,832] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 13:54:10,798] INFO in app: Dashboard loaded successfully for view_type: groups, days: forever
+[2025-02-15 13:54:11,530] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:02:20,884] INFO in app: Dashboard loaded successfully for view_type: groups, days: forever
+[2025-02-15 14:02:21,663] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:02:24,486] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 14:02:25,224] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:02:27,212] INFO in app: Dashboard loaded successfully for view_type: groups, days: forever
+[2025-02-15 14:02:28,055] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:12:27,081] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 14:12:28,651] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:12:31,032] INFO in app: Dashboard loaded successfully for view_type: users, days: today
+[2025-02-15 14:12:32,154] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:12:33,150] INFO in app: Dashboard loaded successfully for view_type: users, days: 3days
+[2025-02-15 14:12:33,921] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:23:43,474] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:23:45,314] INFO in app: Dashboard loaded successfully for view_type: users, days: today
+[2025-02-15 14:23:46,248] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:23:49,039] INFO in app: Dashboard loaded successfully for view_type: users, days: forever
+[2025-02-15 14:23:49,691] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:23:52,567] INFO in app: Dashboard loaded successfully for view_type: groups, days: forever
+[2025-02-15 14:23:53,235] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:36:43,955] INFO in app: Dashboard loaded successfully for view_type: groups, days: forever
+[2025-02-15 14:36:45,030] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:36:47,821] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 14:36:48,445] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:36:50,220] INFO in app: Dashboard loaded successfully for view_type: groups, days: 7days
+[2025-02-15 14:36:50,821] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:36:54,479] INFO in app: Dashboard loaded successfully for view_type: users, days: 7days
+[2025-02-15 14:36:55,010] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:39:10,380] INFO in app: Dashboard loaded successfully for view_type: users, days: 7days
+[2025-02-15 14:39:11,010] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:39:20,691] INFO in app: Dashboard loaded successfully for view_type: users, days: forever
+[2025-02-15 14:39:21,333] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:39:46,791] INFO in app: Dashboard loaded successfully for view_type: total, days: forever
+[2025-02-15 14:39:47,396] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:39:55,845] INFO in app: Dashboard loaded successfully for view_type: total, days: 7days
+[2025-02-15 14:39:56,474] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:40:01,016] INFO in app: Dashboard loaded successfully for view_type: groups, days: 7days
+[2025-02-15 14:40:01,685] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:42:18,228] INFO in app: Dashboard loaded successfully for view_type: groups, days: 7days
+[2025-02-15 14:42:19,080] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:42:23,384] INFO in app: Dashboard loaded successfully for view_type: groups, days: forever
+[2025-02-15 14:42:24,408] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:43:20,101] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 14:43:21,162] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:43:24,358] INFO in app: Dashboard loaded successfully for view_type: total, days: 3days
+[2025-02-15 14:43:24,919] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:43:32,975] INFO in app: Dashboard loaded successfully for view_type: total, days: forever
+[2025-02-15 14:43:33,581] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:43:52,220] INFO in app: Dashboard loaded successfully for view_type: users, days: forever
+[2025-02-15 14:43:52,934] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:43:55,964] INFO in app: Dashboard loaded successfully for view_type: groups, days: forever
+[2025-02-15 14:43:56,690] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:44:00,056] INFO in app: Dashboard loaded successfully for view_type: groups, days: today
+[2025-02-15 14:44:00,651] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:44:02,227] INFO in app: Dashboard loaded successfully for view_type: groups, days: 3days
+[2025-02-15 14:44:02,845] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:44:05,029] INFO in app: Dashboard loaded successfully for view_type: users, days: 3days
+[2025-02-15 14:44:05,604] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:55:02,444] INFO in app: Dashboard loaded successfully for view_type: users, days: 3days
+[2025-02-15 14:55:03,165] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:55:05,300] INFO in app: Dashboard loaded successfully for view_type: users, days: 7days
+[2025-02-15 14:55:05,952] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 14:55:09,408] INFO in app: Dashboard loaded successfully for view_type: total, days: 7days
+[2025-02-15 14:55:10,317] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 15:01:27,811] INFO in app: Dashboard loaded successfully for view_type: total, days: forever
+[2025-02-15 15:01:28,472] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 15:01:31,294] INFO in app: Dashboard loaded successfully for view_type: total, days: 3days
+[2025-02-15 15:01:31,888] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 15:24:26,555] INFO in app: Dashboard loaded successfully for view_type: total, days: 3days
+[2025-02-15 15:24:29,096] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 15:24:32,706] INFO in app: Dashboard loaded successfully for view_type: total, days: today
+[2025-02-15 15:24:33,468] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 15:24:35,649] INFO in app: Dashboard loaded successfully for view_type: total, days: forever
+[2025-02-15 15:24:36,308] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 15:24:40,782] INFO in app: Dashboard loaded successfully for view_type: users, days: forever
+[2025-02-15 15:24:41,419] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 15:27:20,050] INFO in app: Dashboard loaded successfully for view_type: users, days: forever
+[2025-02-15 15:27:20,759] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 15:27:23,443] INFO in app: Dashboard loaded successfully for view_type: users, days: 3days
+[2025-02-15 15:27:24,203] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 15:27:27,155] INFO in app: Dashboard loaded successfully for view_type: users, days: today
+[2025-02-15 15:27:27,907] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-02-15 15:27:45,924] INFO in app: Dashboard loaded successfully for view_type: users, days: forever
+[2025-02-15 15:27:46,535] ERROR in app: An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.

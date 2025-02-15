@@ -1,0 +1,45 @@
+<div class="total-users-container">
+    <div class="table-responsive">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Username</th>
+                    <th>User ID</th>
+                    <th>Previous Names/Tags</th>
+                    <th>Message Count</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for user in data %}
+                <tr>
+                    <td>
+                        {{ user.current_firstname }}
+                        {% if user.current_lastname %}{{ user.current_lastname }}{% endif %}
+                    </td>
+                    <td>{{ user.current_username or 'N/A' }}</td>
+                    <td onclick="copyToClipboard('{{ user.user_id }}')">
+                        {{ user.user_id }}
+                    </td>
+                    <td>
+                        {% if user.name_changes %}
+                        <div class="previous-names">
+                            {% for change in user.name_changes %}
+                            <span class="badge bg-secondary">
+                                {{ change.old_firstname }}
+                                {% if change.old_lastname %}{{ change.old_lastname }}{% endif %}
+                                {% if change.old_username %}({{ change.old_username }}){% endif %}
+                            </span>
+                            {% endfor %}
+                        </div>
+                        {% else %}
+                        No changes
+                        {% endif %}
+                    </td>
+                    <td>{{ user.message_count }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div> 

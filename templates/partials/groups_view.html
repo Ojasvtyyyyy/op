@@ -1,0 +1,63 @@
+<div class="groups-container">
+    {% for item in data %}
+    <div class="chat-card">
+        <div class="chat-header" onclick="toggleChat('group-{{ item.chat.chat_id }}')">
+            <div class="group-info">
+                <h5 class="mb-0">
+                    {% if item.chat.chat_name %}
+                        {{ item.chat.chat_name }}
+                    {% elif item.messages and item.messages[0].user.current_firstname %}
+                        Chat with {{ item.messages[0].user.current_firstname }}
+                        {% if item.messages[0].user.current_lastname %}
+                            {{ item.messages[0].user.current_lastname }}
+                        {% endif %}
+                    {% else %}
+                        Chat {{ item.chat.chat_id }}
+                    {% endif %}
+                </h5>
+                <span class="chat-id" onclick="copyToClipboard('{{ item.chat.chat_id }}')">
+                    ID: {{ item.chat.chat_id }}
+                </span>
+            </div>
+        </div>
+        <div class="chat-content" id="chat-content-group-{{ item.chat.chat_id }}" style="display: none;">
+            {% for message in item.messages %}
+            <div class="message">
+                <div class="user-info">
+                    <span class="username">{{ message.user.current_firstname }}
+                        {% if message.user.current_lastname %}{{ message.user.current_lastname }}{% endif %}
+                    </span>
+                    {% if message.user.current_username %}
+                    <span class="usertag">{{ message.user.current_username }}</span>
+                    {% endif %}
+                    <span class="user-id" onclick="copyToClipboard('{{ message.user.user_id }}')">
+                        (ID: {{ message.user.user_id }})
+                    </span>
+                    {% if message.user.name_changes %}
+                    <div class="previous-names">
+                        Previous: 
+                        {% for change in message.user.name_changes %}
+                        <span class="badge bg-secondary">
+                            {{ change.old_firstname }}
+                            {% if change.old_lastname %}{{ change.old_lastname }}{% endif %}
+                            {% if change.old_username %}({{ change.old_username }}){% endif %}
+                        </span>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                <div class="message-text">
+                    <strong>Message:</strong> {{ message.message_text }}
+                </div>
+                <div class="response-text">
+                    <strong>Response:</strong> {{ message.response_text }}
+                </div>
+                <small class="text-muted">
+                    {{ message.timestamp.replace(tzinfo=timezone.utc).astimezone(timezone(timedelta(hours=5, minutes=30))).strftime('%Y-%m-%d %I:%M:%S %p IST') }}
+                </small>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+</div> 

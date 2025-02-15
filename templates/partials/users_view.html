@@ -1,0 +1,45 @@
+<div class="users-container">
+    {% for item in data %}
+    <div class="chat-card">
+        <div class="chat-header" onclick="toggleChat('user-{{ item.user.user_id }}')">
+            <div class="user-info">
+                <h5 class="mb-0">
+                    Chat with {{ item.user.current_firstname }} 
+                    {% if item.user.current_lastname %}{{ item.user.current_lastname }}{% endif %}
+                    {% if item.user.current_username %}({{ item.user.current_username }}){% endif %}
+                </h5>
+                <span class="user-id" onclick="copyToClipboard('{{ item.user.user_id }}')">
+                    ID: {{ item.user.user_id }}
+                </span>
+            </div>
+            {% if item.user.name_changes %}
+            <div class="previous-names">
+                Previous names/tags:
+                {% for change in item.user.name_changes %}
+                    <span class="badge bg-secondary">
+                        {{ change.old_firstname }}
+                        {% if change.old_lastname %}{{ change.old_lastname }}{% endif %}
+                        {% if change.old_username %}({{ change.old_username }}){% endif %}
+                    </span>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+        <div class="chat-content" id="chat-content-user-{{ item.user.user_id }}" style="display: none;">
+            {% for message in item.messages %}
+            <div class="message">
+                <div class="message-text">
+                    <strong>Message:</strong> {{ message.message_text }}
+                </div>
+                <div class="response-text">
+                    <strong>Response:</strong> {{ message.response_text }}
+                </div>
+                <small class="text-muted">
+                    {{ message.timestamp.replace(tzinfo=timezone.utc).astimezone(timezone(timedelta(hours=5, minutes=30))).strftime('%Y-%m-%d %I:%M:%S %p IST') }}
+                </small>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+</div> 
