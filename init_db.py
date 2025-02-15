@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, text
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.exc import OperationalError
 import os
@@ -36,7 +36,7 @@ def init_database():
             
             # Connect with autocommit to create database
             conn = temp_engine.connect()
-            conn.execute("commit")
+            conn.execute(text("commit"))
             
             # Get database name from URL
             db_name = DATABASE_URL.rsplit('/', 1)[1]
