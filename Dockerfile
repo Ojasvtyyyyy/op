@@ -8,9 +8,6 @@ RUN pip install gunicorn supervisor
 
 COPY . .
 
-# Create supervisor configuration
-COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
-
 # Create the supervisor configuration file
 RUN echo "[supervisord]\n\
 nodaemon=true\n\
