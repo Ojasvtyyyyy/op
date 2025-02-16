@@ -27,32 +27,35 @@ def init_database():
         
         return engine, SessionLocal
         
-    except OperationalError as e:
-        # If database doesn't exist, create it
+    except Exception as e:
         if "database" in str(e) and "does not exist" in str(e):
-            # Create default database
-            default_db_url = DATABASE_URL.rsplit('/', 1)[0] + '/postgres'
-            temp_engine = create_engine(default_db_url)
-            
-            # Connect with autocommit to create database
-            conn = temp_engine.connect()
-            conn.execute(text("commit"))
-            
-            # Get database name from URL
-            db_name = DATABASE_URL.rsplit('/', 1)[1]
-            
-            # Create database
-            conn.execute(f"CREATE DATABASE {db_name}")
-            conn.close()
-            
-            # Try again with the new database
-            engine = create_engine(DATABASE_URL)
-            Base.metadata.create_all(engine)
-            SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
-            
-            return engine, SessionLocal
+            try:
+                # Extract database name and create default connection URL
+                db_name = DATABASE_URL.rsplit('/', 1)[1]
+                default_db_url = DATABASE_URL.rsplit('/', 1)[0] + '/postgres'
+                
+                # Connect to default postgres database
+                temp_engine = create_engine(default_db_url)
+                
+                # Create new connection with autocommit
+                conn = temp_engine.execution_options(isolation_level="AUTOCOMMIT").connect()
+                
+                # Create database if it doesn't exist
+                conn.execute(text(f'CREATE DATABASE "{db_name}"'))
+                conn.close()
+                temp_engine.dispose()
+                
+                # Try again with the new database
+                engine = create_engine(DATABASE_URL)
+                Base.metadata.create_all(engine)
+                SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+                
+                return engine, SessionLocal
+                
+            except Exception as inner_e:
+                raise Exception(f"Failed to create database. Original error: {str(e)}. Creation error: {str(inner_e)}") from inner_e
         else:
-            raise
+            raise Exception(f"Database connection failed: {str(e)}") from e
 
 if __name__ == "__main__":
     init_database() 
