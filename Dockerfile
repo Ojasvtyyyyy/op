@@ -2,9 +2,14 @@ FROM python:3.12-slim
 
 WORKDIR /app
 
+# Install supervisor using apt
+RUN apt-get update && \
+    apt-get install -y supervisor && \
+    rm -rf /var/lib/apt/lists/*
+
 COPY requirements.txt .
 RUN pip install -r requirements.txt
-RUN pip install gunicorn supervisor
+RUN pip install gunicorn
 
 # Create supervisor directory
 RUN mkdir -p /etc/supervisor/conf.d
@@ -29,4 +34,4 @@ stdout_logfile_maxbytes=0\n\
 stderr_logfile=/dev/stderr\n\
 stderr_logfile_maxbytes=0" > /etc/supervisor/conf.d/supervisord.conf
 
-CMD ["/usr/local/bin/supervisord", "-c", "/etc/supervisor/conf.d/supervisord.conf"]
+CMD ["/usr/bin/supervisord", "-c", "/etc/supervisor/conf.d/supervisord.conf"]
